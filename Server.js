@@ -8,8 +8,8 @@ app.use(express.json());
 app.use(express.static("public"));
 
 /* ===== PUT YOUR REAL API KEYS HERE ===== */
-const DEEPSEEK_API_KEY = "PASTE_DEEPSEEK_KEY_HERE";
-const ELEVEN_API_KEY = "PASTE_ELEVENLABS_KEY_HERE";
+const DEEPSEEK_API_KEY = "sk-7b8f606f1af241c992779b2aa4a0d274";
+const ELEVEN_API_KEY = "sk_5d50aeba2be285aca449a139fc68d0a50d8cbc984f62e59c";
 const ELEVEN_VOICE_ID = "nPczCjzI2devNBz1zQrb";
 /* ===================================== */
 
